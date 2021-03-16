@@ -6,13 +6,11 @@
   const dispatch = createEventDispatcher();
   export let name = "Undefined name";
   export let age = "Undefined age";
-  export let score = "Undefined score";
   export let country = "Undefined country";
   export let avatar = "";
   export let status;
   export let disabled;
-  export let id;
-  export let index;
+  
 </script>
 
 <main>
